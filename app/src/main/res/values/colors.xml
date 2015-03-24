@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="fuel_gauge_background">#e4e4e4</color>
+    <color name="needle_color">#0000ff</color>
+    <color name="text_color">#000000</color>
+    <color name="line_color">#000000</color>
+    <color name="label_color">#00ff00</color>
+
+</resources>
